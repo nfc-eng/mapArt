@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3759fba2-8f0b-4d6e-b26c-65819d100d28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basicMap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prints/ny/NY_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prints/chicago/chicago_palette_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prints/ny/NY_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prints/ny/ny_palette_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/prints/ny/ny_palette_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prints/paris/paris_palette_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/prints/paris/paris_palette_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prints/pripyat_ukraine/pripyat_ukraine_palette_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/prints/pripyat_ukraine/pripyat_ukraine_palette_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prints/tokyo/tokyo_palette_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/prints/tokyo/tokyo_palette_0.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,72 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="915">
-                <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basicMap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="153" column="23" lean-forward="true" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="23" />
-              <folding>
-                <element signature="e#2779#2790#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Basic.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Palette_2_Brown_Red.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/chicago/chicago_palette_0.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/tokyo/tokyo_palette_0.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/pripyat_ukraine/pripyat_ukraine_palette_0.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_0.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prints/ny/NY_1.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PermanentMarker-Regular.ttf.1">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,31 +69,13 @@
               <item name="mapArt" type="b2602c69:ProjectViewProjectNode" />
               <item name="mapArt" type="462c0819:PsiDirectoryNode" />
               <item name="prints" type="462c0819:PsiDirectoryNode" />
-              <item name="chicago" type="462c0819:PsiDirectoryNode" />
+              <item name="mexico_city" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mapArt" type="b2602c69:ProjectViewProjectNode" />
               <item name="mapArt" type="462c0819:PsiDirectoryNode" />
               <item name="prints" type="462c0819:PsiDirectoryNode" />
-              <item name="denver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mapArt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapArt" type="462c0819:PsiDirectoryNode" />
-              <item name="prints" type="462c0819:PsiDirectoryNode" />
-              <item name="ny" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mapArt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapArt" type="462c0819:PsiDirectoryNode" />
-              <item name="prints" type="462c0819:PsiDirectoryNode" />
-              <item name="pripyat_ukraine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mapArt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mapArt" type="462c0819:PsiDirectoryNode" />
-              <item name="prints" type="462c0819:PsiDirectoryNode" />
-              <item name="tokyo" type="462c0819:PsiDirectoryNode" />
+              <item name="paris" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,14 +147,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -253,9 +174,6 @@
     <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Palette_3_Greens.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prints/paris/Paris_Palette_3_Greens.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/prints/paris/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -273,13 +191,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prints/paris/Paris_Palette_4_Pink.png">
+    <entry file="file://$PROJECT_DIR$/PermanentMarker-Regular.ttf.1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Palette_2_Brown_Red.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Basic.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="915">
+          <first_editor relative-caret-position="436">
             <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
           </first_editor>
           <second_editor />
@@ -289,22 +213,73 @@
     <entry file="file://$PROJECT_DIR$/prints/pripyat_ukraine/pripyat_ukraine_palette_0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_0.png">
+    <entry file="file://$PROJECT_DIR$/prints/london/london_palette_0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prints/ny/NY_1.png">
+    <entry file="file://$PROJECT_DIR$/prints/london/london_palette_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/PermanentMarker-Regular.ttf.1">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/prints/london/london_palette_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/london/london_palette_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/london/london_palette_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/paris/Paris_Palette_3_Greens.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/paris/Paris_Palette_4_Pink.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/rome/rome_palette_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/rome/rome_palette_1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prints/tokyo/tokyo_palette_0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Palette_2_Brown_Red.png">
+    <entry file="file://$PROJECT_DIR$/prints/tokyo/tokyo_palette_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prints/denver/Denver_Basic.png">
+    <entry file="file://$PROJECT_DIR$/prints/tokyo/tokyo_palette_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/tokyo/tokyo_palette_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/tokyo/tokyo_palette_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/rome/rome_palette_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/rome/rome_palette_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/pripyat_ukraine/pripyat_ukraine_palette_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/ny/ny_palette_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/ny/NY_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/prints/chicago/chicago_palette_0.png">
@@ -312,13 +287,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basicMap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="153" column="23" lean-forward="true" selection-start-line="153" selection-start-column="23" selection-end-line="153" selection-end-column="23" />
+        <state relative-caret-position="375">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
           <folding>
-            <element signature="e#2779#2790#0" expanded="true" />
+            <element signature="e#1#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/manila/manila_palette_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/jakarta/jakarta_palette_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/delhi_india/delhi_india_palette_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/delhi_india/delhi_india_palette_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/mexico_city/mexico_city_palette_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/mexico_city/mexico_city_palette_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/paris/paris_palette_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prints/paris/paris_palette_1.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
